@@ -15,3 +15,5 @@ markdown 语言
 **我是加粗a**
 
 [点我去百度](http://www.baidu.com)
+
+![找不到](http://tupian.enterdesk.com/2013/xll/012/26/3/7.jpg)
